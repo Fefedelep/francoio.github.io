@@ -13,7 +13,7 @@ output: pdf_document
 
 * Calculer la probabilité de battre un record à l'épreuve $m$
 
-###### Réponse : 
+###### Réponse : P(X) = 1/m
 
 ** **
 
@@ -21,7 +21,7 @@ output: pdf_document
 
 * Donner l'espérance de $N$ pour $n = 27$. 
 
-###### Réponse : 
+###### Réponse : 3,89
 
 ** **
 
@@ -30,7 +30,7 @@ output: pdf_document
 * Calculer ${\rm E}[Y_n]$.
 
 
-###### Réponse : 
+###### Réponse : E[Yn] = (n−1)/2
 
 ** **
 
@@ -38,7 +38,7 @@ output: pdf_document
 
 * Calculer la valeur de la variance Var$[Y_3]$.
 
-###### Réponse : 
+###### Réponse : Var[Y3] = 1/3
 
 ** **
 
@@ -46,7 +46,7 @@ output: pdf_document
 
 * Calculer Var$[Y_n]$ pour tout $n \geq 2$.
 
-###### Réponse : 
+###### Réponse : Var[Yn] = (n+1)/2
 
 ** **
 
@@ -55,7 +55,7 @@ output: pdf_document
 
 * Combien de tirages suffisent pour qu'avec une probabilité supérieure à 0.99, $A_{n-1}$ soit proche de la valeur 1/2 à $10^{-2}$ près. 
 
-###### Réponse : 
+###### Réponse : 83337
 
 ** **
 
@@ -66,7 +66,7 @@ output: pdf_document
 
 
 
-###### Réponse : 
+###### Réponse : c = 10
 
 ** ** 
 
@@ -75,7 +75,9 @@ output: pdf_document
 
 * Déterminer la fonction de répartition de la variable $Y$. Donner sa valeur au point $t = 2/3$. 
 
-###### Réponse : 
+###### Réponse : F(t) = t^5 , F(2/3) = 0, 13
+
+
 
 ** **
 
